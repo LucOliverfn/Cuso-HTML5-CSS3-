@@ -1,0 +1,15 @@
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    /* ou 1em */
+    /* font-weight: bolder;
+    font-style: italic;
+    text-decoration:underline ; */
+
+    /* SHORT HANDS*/
+    font: italic bold 3em 'Work sans', sans-serif;
+}
